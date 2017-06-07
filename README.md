@@ -62,7 +62,7 @@ Update MongoDB and Kafka configuration in ```{webMethods-IntegrationServer-SKYPr
 
 **Build and Run SKY Profiler** 
 
-* Build SKY Profiler
+* Build SKY Profiler  
 SKY Profiler build requires the following services to be up and running
 1. MongoDB
 2. Zookeeper
